@@ -1,0 +1,9 @@
+2,software devlopment,Indranil Saha,12343,xyz,3,1022022
+4,Harry Potter,JK Rowling,23455,Blooms Berry,5,1012022
+5,Game of Thrones,George RR Martin,43555,BloomsBerry,5,27032022
+6,Concepts of Physics,HC Verma,33456,Tata,0,0
+7,Computer Organization,DA Paterson,56775,Tata Mc Graw,10,15032022
+8,Maths for JEE,KD Joshi,45504,perkins,0,0
+9,Physics,Halliday & Resnick,12345,Wiley,10,15022022
+10,Organic Chemistry,Clayden,12349,petkins,5,6042022
+11,Calculus,Thomas,234568,Pearson,0,0

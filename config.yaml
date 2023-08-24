@@ -1,0 +1,5 @@
+max_days_stud:30
+max_days_prof:60
+fine_per_day_stud:2
+fine_per_day_prof:5
+stud_max_books:5
